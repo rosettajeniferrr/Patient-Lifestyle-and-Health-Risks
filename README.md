@@ -1,15 +1,15 @@
 # 🧠 Patient Lifestyle and Health Risk Profiling
 
 ## 📌 Project Overview
-This project analyzes patient lifestyle and health-related attributes to identify different risk groups using Machine Learning clustering techniques. 
-The goal is to segment individuals based on patterns in health behavior, enabling better preventive healthcare strategies and targeted interventions.
+- This project analyzes patient lifestyle and health-related attributes to identify different risk groups using Machine Learning clustering techniques. 
+- The goal is to segment individuals based on patterns in health behavior, enabling better preventive healthcare strategies and targeted interventions.
+
 ---
 ## 🎯 Problem Statement
-
-Modern lifestyle factors such as poor diet, lack of physical activity, smoking, and stress contribute significantly to health risks. However, identifying high-risk individuals early remains a challenge.
-
-This project uses unsupervised learning to group patients into clusters based on lifestyle and health indicators, helping in understanding hidden patterns and risk categories.
+- Modern lifestyle factors such as poor diet, lack of physical activity, smoking, and stress contribute significantly to health risks. However, identifying high-risk individuals early    remains a challenge. 
+ This project uses unsupervised learning to group patients into clusters based on lifestyle and health indicators, helping in understanding hidden patterns and risk categories.
 ---
+
 ## 📊 Dataset Features
 - Age
 - Gender
@@ -26,6 +26,7 @@ This project uses unsupervised learning to group patients into clusters based on
 
 (Note: Features may slightly vary based on dataset used)
 ---
+
 ## 🛠 Technologies Used
 - Python
 - Jupyter Notebook
@@ -36,6 +37,7 @@ This project uses unsupervised learning to group patients into clusters based on
 - Scikit-learn
 - SciPy
 ---
+
 ## ⚙️ Machine Learning Workflow
 
 - Data Loading
@@ -70,9 +72,10 @@ This project uses unsupervised learning to group patients into clusters based on
 - View clustering results and visualizations
 ---
 ## ⚠️ Notes
-Silhouette score is calculated using a sample to avoid high computational cost
-Dendrogram is plotted using a subset of data for better visualization
-Results may vary depending on dataset and parameters
+
+- Silhouette score is calculated using a sample to avoid high computational cost
+- Dendrogram is plotted using a subset of data for better visualization
+- Results may vary depending on dataset and parameters
 ---
 👩‍💻 Author
 
